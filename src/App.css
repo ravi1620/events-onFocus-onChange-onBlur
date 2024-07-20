@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.mainForm{
+  width: 50%;
+  background-color: rgb(84, 128, 167);
+  display: inline-block;
+  border: 2px solid black;
+}
+.label{
+  width: 200px;
+  display: inline-block;
+  margin: 10px;
+}
+span{
+  margin: 25px;
+}
